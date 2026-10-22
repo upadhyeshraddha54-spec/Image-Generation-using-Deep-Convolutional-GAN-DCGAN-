@@ -96,4 +96,4 @@ Generated digits may vary in quality because of the small dataset and low image 
 This project demonstrates image generation using DCGAN, including data preprocessing, neural network design, adversarial training, visualization, evaluation, and model saving.
 
 ## Author
-Add your name here.
+Shraddha Upadhye
